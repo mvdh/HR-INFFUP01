@@ -1,9 +1,8 @@
-Final Assignment
-================
+###Final Assignment
 
 The final assignment is to build an application (a function) that gives suggestions for words that can be layed down on a Wordfeud board, based on the users's tiles (disposal) and a prefix and/or suffix.
 
-## The algorithm
+##The algorithm
 
 The application first reads a file with words into a list.
 

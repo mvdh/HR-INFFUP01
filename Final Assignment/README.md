@@ -1,6 +1,7 @@
 # Final Assignment
 
-    Build an application that prompts words that can be layed down on a Wordfeud board, based on the users's tiles (disposal) and a prefix and/or suffix.
+    Build an application that prompts words that can be layed down on a Wordfeud board, based on the users's tiles 
+    (disposal) and a prefix and/or suffix.
 
 ## The algorithm
 
